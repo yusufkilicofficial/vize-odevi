@@ -9,6 +9,10 @@
 
 Bu proje, Arduino dersindeki vize odevi icin hazirlanmistir. Ucunu deney ayri ayri ve birlikte calisabilecek sekilde yapilmistir.
 
+<video src="vize-odev-video.mp4" controls width="600">
+  Tarayıcınız video etiketini desteklemiyor.
+</video>
+
 ## Klasor Yapisi
 
 ```
