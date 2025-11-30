@@ -10,9 +10,14 @@
 Bu proje, Arduino dersindeki vize odevi icin hazirlanmistir. Ucunu deney ayri ayri ve birlikte calisabilecek sekilde yapilmistir.
 vize-odev-vide.mp4 içerisinde 3 deneyinde videosu bulunmaktadır. Video içerisinde once 7 segmentli display deneyi, daha sonra lcd ve sensörler deneyi , daha sonra ldr kontrollü servo deneyi gösterilmiştir. Videoyu indirmek için isterseniz 
 
+https://github.com/yusufkilicofficial/vize-odevi/blob/main/vize-odev-video.mp4
+
+direkt github üzerinden indirebilir, isterseniz alternatif olarak 
+
 http://154.12.118.246:8003/vize-odevi/vize-odev-video.mp4
 
 bu linki de kullanabilirsiniz.
+
 ## Klasor Yapisi
 
 ```
